@@ -51,13 +51,14 @@ echo
 echo -e "${YELLOW}Checking Sonaric node info...${NC}"
 sudo sonaric node-info
 echo
-
+echo -e "${YELLOW}Backing up exporting your sonaric indentity...${NC}"
+echo
 SONARIC_IDENTITY_NAME=$(prompt "Enter a name for your Sonaric identity: ")
 echo
-sonaric identity-export -o "$SONARIC_IDENTITY_NAME.identity"
+sudo sonaric identity-export -o "$SONARIC_IDENTITY_NAME.identity"
 echo
 echo -e "${YELLOW}Checking Sonaric points...${NC}"
-sonaric points
+sudo sonaric points
 echo
 echo -e "${YELLOW}You can check Sonaric points by this command :  sudo sonaric points${NC}"
 echo
