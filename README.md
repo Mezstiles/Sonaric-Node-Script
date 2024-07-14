@@ -11,6 +11,8 @@
 - You can buy VPS from [PQ Hosting](https://pq.hosting/en/vps) using Crypto
 ## Installation
 
+
+https://github.com/user-attachments/assets/5e098b04-20ff-47ee-adb1-10c5db58de20
 - Open Termius or Putty
 - Use these 2 commands first to create a Screen session
 ```bash
