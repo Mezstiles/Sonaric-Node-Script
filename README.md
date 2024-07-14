@@ -24,3 +24,5 @@ screen -S Sonaric-Node
 ```bash
 wget https://raw.githubusercontent.com/dxzenith/Sonaric-Node-Script/main/sonaric.sh && chmod +x sonaric.sh && ./sonaric.sh
 ```
+- To detach from this screen u need to press `Ctrl + A + D`
+- After that you can close your Termius or Putty App
