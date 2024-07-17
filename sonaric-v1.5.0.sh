@@ -24,7 +24,7 @@ execute_and_prompt "Stopping sonaric node..." "sudo systemctl stop sonaricd"
 echo
 execute_and_prompt "Updating packaging lists..." "sudo apt update"
 echo
-execute_and_prompt "Upgrading sonaric node..." "sudo apt upgrade sonaric"
+execute_and_prompt "Upgrading sonaric node..." "sudo apt-get install sonaricd sonaric"
 echo
 execute_and_prompt "Reloading systemd manager config..." "sudo systemctl daemon-reload"
 echo
