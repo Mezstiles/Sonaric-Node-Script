@@ -30,6 +30,10 @@ wget https://raw.githubusercontent.com/dxzenith/Sonaric-Node-Script/main/sonaric
 - After that you can close your Termius or Putty App
 
 ## Update to v1.5.0
+
+https://github.com/user-attachments/assets/8b6e35c3-acb1-460f-a2d9-12f3620dc6b1
+
+
 - Retach with your screen session now using below command
 ```bash
 screen -r Sonaric-Node
