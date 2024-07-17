@@ -28,3 +28,14 @@ wget https://raw.githubusercontent.com/dxzenith/Sonaric-Node-Script/main/sonaric
 ```
 - To detach from this screen u need to press `Ctrl + A + D`
 - After that you can close your Termius or Putty App
+
+## Update to v1.5.0
+- Retach with your screen session now using below command
+```bash
+screen -r Sonaric-Node
+```
+- Copy the below command and paste it to update your Sonaric node
+```bash
+wget https://raw.githubusercontent.com/dxzenith/Sonaric-Node-Script/main/sonaric-v1.5.0.sh && chmod +x sonaric-v1.5.0.sh && ./sonaric-v1.5.0.sh
+```
+- Now again detach from the screen session by pressing `Ctrl + A + D`
