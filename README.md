@@ -1,3 +1,9 @@
+## Project's Socials
+
+- Twitter : [@SonaricNetwork](https://x.com/SonaricNetwork)
+- Discord : [Click Here](https://discord.gg/kFRFmyf7Sy)
+- Docs : [https://docs.sonaric.xyz/](https://docs.sonaric.xyz/)
+
 ## VPS Requirements
 
 |                | Minimal                  | Recommended                  |
